@@ -15,8 +15,7 @@ GROUP BY
     skills
 ORDER BY
     avg_salary DESC
-LIMIT 35
-
+LIMIT 25
 /*
 Results are expected =
 - High demand for Big data & ML Skills
