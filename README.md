@@ -115,7 +115,7 @@ LIMIT 5
 - Programming is also very important (espacially Python with Big Data frameworks)
 
 
-|Umiejętność	|Średnie wynagrodzenie (USD)|
+|Skill	|Average year salary|
 |-------|-------------|
 |BigQuery	|111,175|
 |Airflow	|111,175|
